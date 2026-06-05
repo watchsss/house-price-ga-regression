@@ -2,7 +2,7 @@
 
 Comparing 3 regression models (KNN, Decision Tree, Linear Regression) for house price prediction, with Genetic Algorithm performing feature selection and hyperparameter tuning jointly.
 
-**Course Project** — Dasar Kecerdasan Artifisial, Telkom University 2025
+**Course Project** — Kecerdasan Artifisial, Telkom University 2025
 
 **Team:** Dimas Muhammad Akbar, Muhamad Iqbal Tsany Putra, Arya Danuharja
 
